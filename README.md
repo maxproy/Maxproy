@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/Max_proy/">
     <img src="https://img.shields.io/badge/Instagram-Max__proy-E1306C?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/isaac-maina">
+  <a href="https://www.linkedin.com/in/Isaac-Muraya">
     <img src="https://img.shields.io/badge/LinkedIn-isaac%20maina-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -60,7 +60,7 @@ I love: coding, football, gaming, and learning new things every day.
 ### 🤝 Let's Connect
 
 - 📷 Instagram: [Max_proy](https://www.instagram.com/Max_proy/)
-- 💼 LinkedIn: [isaac maina](https://www.linkedin.com/in/isaac-maina)
+- 💼 LinkedIn: [isaac maina](https://www.linkedin.com/in/Isaac-Muraya/)
 
 ---
 
