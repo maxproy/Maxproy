@@ -1,6 +1,8 @@
 <!-- Profile README for Isaac Maina -->
-
-<h1 align="center"> I'm Isaac Maina</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94c2lvbjF2cHA2amRobXZnc2VqYXg1cmQ0Njd2M2Q2bmIwcHNneiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif">
+</p>
+<h1 align="center"> Hi there, I'm Isaac Maina</h1>
 <p align="center">
   <a href="https://www.instagram.com/Max_proy/">
     <img src="https://img.shields.io/badge/Instagram-Max__proy-E1306C?style=flat&logo=instagram&logoColor=white"/>
