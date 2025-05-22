@@ -1,6 +1,6 @@
 <!-- Profile README for Isaac Maina -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94c2lvbjF2cHA2amRobXZnc2VqYXg1cmQ0Njd2M2Q2bmIwcHNneiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94c2lvbjF2cHA2amRobXZnc2VqYXg1cmQ0Njd2M2Q2bmIwcHNneiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="200" height="200">
 </p>
 <h1 align="center"> Hi there, I'm Isaac Maina</h1>
 <p align="center">
@@ -91,4 +91,7 @@
 
 ---
 
-*Thanks for stopping by! Feel free to check out my repositories and connect with me!*
+<p align ="center"> <b>*Thanks for stopping by! Feel free to check out my repositories and connect with me!*</b> </p>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo2MHBrdzlqODNvOG1kdDV5cGt1am90ZGloZnJidTh6b3dwd2F6cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NmkTFSjMgWulkrREYI/giphy.gif" width="160" height="160"> 
+</p>
