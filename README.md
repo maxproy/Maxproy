@@ -60,7 +60,7 @@ I love: coding, football, gaming, and learning new things every day.
 ### 🤝 Let's Connect
 
 - 📷 Instagram: [Max_proy](https://www.instagram.com/Max_proy/)
-- 💼 LinkedIn: [isaac maina](https://www.linkedin.com/in/Isaac-Muraya/)
+- 💼 LinkedIn: [isaac maina](https://www.linkedin.com/in/Isaac-Muraya)
 
 ---
 
