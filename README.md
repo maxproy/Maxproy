@@ -87,7 +87,7 @@
 ### 🤝 Let's Connect
 
 - 📷 Instagram: [Max_proy](https://www.instagram.com/Max_proy/)
-- 💼 LinkedIn: [Isaac Muraya](https://www.linkedin.com/in/Isaac-Muraya)
+- 💼 LinkedIn: [Isaac Muraya](https://www.linkedin.com/in/isaac-muraya-952205271/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BV9onbI5qRhi7D83JQ%2B9M2w%3D%3D)
 
 ---
 
