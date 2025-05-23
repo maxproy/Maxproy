@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/Max_proy/">
     <img src="https://img.shields.io/badge/Instagram-Max__proy-E1306C?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/Isaac-Muraya">
+  <a href="https://www.linkedin.com/in/isaac-muraya-952205271/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BV9onbI5qRhi7D83JQ%2B9M2w%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-Isaac%20Muraya-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
