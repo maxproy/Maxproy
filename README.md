@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m Isaac Maina, a passionate developer who loves building both front-end and back-end solutions.
+- 🌱 I’m a passionate developer who loves building both front-end and back-end solutions.
 - 💻 I enjoy working with **HTML, CSS, JavaScript, Python**, and some **Java**.
 - 🧑‍🎓 I’m always learning new technologies and challenging myself with creative projects.
 
