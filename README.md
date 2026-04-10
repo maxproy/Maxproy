@@ -93,3 +93,22 @@
   <a href="https://jharohit.com.np" target="_blank">
     <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
+
+  </p>
+
+ ---
+### 📬 Let's Collaborate!
+- 🔍 Looking for: **Internship opportunities** and **open-source projects**
+- 📫 Reach me: [isaacmuraya@email.com](mailto:isaacmuraya@example.com)
+- 💼 Portfolio: [Coming Soon!](#)
+
+---
+
+<p align="center"> 
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=maxproy&color=blueviolet&style=flat" alt="Profile views"/> <br>
+  <img src="https://media.giphy.com/media/NmkTFSjMgWulkrREYI/giphy.gif" width="160" height="160"> 
+</p>
