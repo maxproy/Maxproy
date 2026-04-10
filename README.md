@@ -48,11 +48,11 @@
 
 | Project Name             | Description                       | Code        |
 |-------------------------|-----------------------------------|-----------------|
-| StudentMarketplace       | A platform for students to find market-related opportunities. |
-| BlizzarHubCarRental     | A service for renting cars quickly and easily.                |
-| JikoniXpress         | A fast food delivery application.                                 |
-| CarRentalSystem         | A complete system for managing car rentals.                   |
-| HEALTHBOT-eve           | A health monitoring bot for real-time health insights.         |
+| StudentMarketplace       | A platform for students to find market-related opportunities. |Python|
+| BlizzarHubCarRental     | A service for renting cars quickly and easily.                |Java|
+| JikoniXpress         | A fast food delivery application.                                 |Java|
+| CarRentalSystem         | A complete system for managing car rentals.                   |Python|
+| HEALTHBOT-eve           | A health monitoring bot for real-time health insights.         |Python|
 ---
 
 ### 📊 GitHub Analytics
