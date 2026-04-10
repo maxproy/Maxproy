@@ -46,11 +46,11 @@
 
 ### 🌟 Featured Projects
 
-| Project Name             | Description                       |
-|-------------------------|-----------------------------------|
+| Project Name             | Description                       | Code        |
+|-------------------------|-----------------------------------|-----------------|
 | StudentMarketplace       | A platform for students to find market-related opportunities. |
 | BlizzarHubCarRental     | A service for renting cars quickly and easily.                |
-| JikoniXpress            | A fast food delivery application.                                 |
+| JikoniXpress         | A fast food delivery application.                                 |
 | CarRentalSystem         | A complete system for managing car rentals.                   |
 | HEALTHBOT-eve           | A health monitoring bot for real-time health insights.         |
 ---
