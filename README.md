@@ -74,26 +74,21 @@
 
 ### 🎨 Beyond Code
 <p align="center">
-
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40"/>
   </a>
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Video%20Game.webp" alt="Azure" width="40" height="40"/>
   </a>
-
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40"/>
   </a>
-
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40"/>
   </a>
-
   <a href="https://jharohit.com.np" target="_blank">
-    <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+    <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40"/>
   </a>
-
   </p>
 
  ---
