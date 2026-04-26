@@ -68,7 +68,9 @@
 
 ---
 ### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=maxproy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p aling="center">
+<img  src="https://github-trophies.vercel.app/?username=Maxproy&theme=radical"/>
+</p>
 
 ---
 
