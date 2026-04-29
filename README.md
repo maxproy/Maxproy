@@ -9,16 +9,18 @@
   <a href="https://www.instagram.com/Max_proy/">
     <img src="https://img.shields.io/badge/Instagram-Max__proy-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/isaac-muraya-952205271/">
     <img src="https://img.shields.io/badge/LinkedIn-Isaac%20Muraya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/maxproy">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 ---
-<
+
 ### 👨‍💻 About Me
 
 - 🔭 Currently building **campus-focused solutions** and **web applications**
