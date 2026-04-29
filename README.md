@@ -1,11 +1,11 @@
 <!-- Profile README for Isaac Maina -->
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94c2lvbjF2cHA2amRobXZnc2VqYXg1cmQ0Njd2M2Q2bmIwcHNneiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="200" height="200">
-</p>
+</div>
 <h1 align="center">Hi there, I'm Isaac Maina 👋</h1>
 <h3 align="center">Full-Stack Developer | Python & JavaScript Enthusiast</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://www.instagram.com/Max_proy/">
     <img src="https://img.shields.io/badge/Instagram-Max__proy-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -15,7 +15,7 @@
   <a href="https://github.com/maxproy">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
@@ -32,6 +32,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
  ---
+ <div align="center">
 ### 🌟 Featured Projects
 
 | Project Name             | Description                       | Code        |
@@ -42,6 +43,8 @@
 | CarRentalSystem         | A complete system for managing car rentals.                   |Python|
 | HEALTHBOT-eve           | A health monitoring bot for real-time health insights.         |Python|
 ---
+</div>
+
 
 ### 📊 GitHub Analytics
 
@@ -56,14 +59,14 @@
 
 ---
 ### 🏆 Achievements
-<p aling="center">
+<div align="center">
 <img  src="https://github-trophies.vercel.app/?username=Maxproy&theme=radical"/>
-</p>
+</div>
 
 ---
 
 ### 🎨 Beyond Code
-<p align="center">
+<div align="center">
   <a href="https://jharohit.com.np" target="_blank">
     <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40"/>
   </a>
@@ -79,7 +82,7 @@
   <a href="https://jharohit.com.np" target="_blank">
     <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40"/>
   </a>
-  </p>
+  </div>
 
  ---
 ### 📬 Let's Collaborate!
