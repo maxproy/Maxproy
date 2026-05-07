@@ -88,8 +88,7 @@
  ---
 ### 📬 Let's Collaborate!
 - 🔍 Looking for: **Internship opportunities** and **open-source projects**
-- 📫 Reach me: [isaacmuraya@email.com](mailto:isaacmuraya@example.com)
-- 💼 Portfolio: [Coming Soon!](#)
+- 📫 Reach me: [isaacmuraya254@email.com](mailto:isaacmuraya254@example.com)
 
 ---
 
