@@ -149,14 +149,15 @@
  ---
 ### 🌟 Featured Projects
 
-| Project Name             | Description                       | Code        |
-|-------------------------|-----------------------------------|-----------------|
-| StudentMarketplace       | A platform for students to find market-related opportunities. |Python|
-| BlizzarHubCarRental     | A service for renting cars quickly and easily.                |Java|
-| JikoniXpress         | A fast food delivery application.                                 |Java|
-| CarRentalSystem         | A complete system for managing car rentals.                   |Python|
-| EVE HEALTHBOT         | A health monitoring bot for real-time health insights.         |Python|
-|NGO PROJECT           | A web based application that keeps and records data of donations made| php|
+| 🚀 Project Name | 📝 Description | 🛠️ Code |
+| :--- | :--- | :--- |
+| [StudentMarketplace](https://github.com/maxproy/StudentMarketPlace) | A platform for students to find market-related opportunities. | Python |
+| [BlizzarHubCarRental](https://github.com/maxproy/BlizzarHubCarRental) | A service for renting cars quickly and easily. | Java |
+| [JikoniXpress](https://github.com/maxproy/JikoniXpresss) | A fast food delivery application. | Java |
+| [CarRentalSystem](https://github.com/maxproy/CarRentalSystem) | A complete system for managing car rentals. | Python |
+| [EVE HEALTHBOT](https://github.com/maxproy/EVE-HEALTHBOT) | A health monitoring bot for real-time health insights. | Python |
+| [NGO PROJECT](https://github.com/maxproy/NGO-donor-program) | A web based application that keeps and records data of donations made. | PHP |
+
 ---
 
 
