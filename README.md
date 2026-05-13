@@ -172,8 +172,7 @@
 </p>
 <br>
 
-![Snake animation](https://github.com/maxproy/maxproy/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/maxproy/Maxproy/blob/output/github-contribution-grid-snake.svg)
 ---
 ### 🏆 Achievements
 <div align="center">
