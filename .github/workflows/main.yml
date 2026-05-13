@@ -8,6 +8,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    # Grant the GITHUB_TOKEN write permission to commit and push the output.
+    permissions:
+      contents: write
+
     steps:
       # 1. Check out the repository so the action can commit files
       - uses: actions/checkout@v4
@@ -16,7 +21,6 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-svg
         with:
-          # Corrected input: use github_user_name instead of github_user_login
           github_user_name: maxproy
           outputs: |
             dist/github-contribution-grid-snake.svg
