@@ -148,7 +148,6 @@
 
  ---
 ### 🌟 Featured Projects
-
 | 🚀 Project Name | 📝 Description | 🛠️ Code |
 | :--- | :--- | :--- |
 | [StudentMarketplace](https://github.com/maxproy/StudentMarketPlace) | A platform for students to find market-related opportunities. | Python |
@@ -159,7 +158,6 @@
 | [NGO PROJECT](https://github.com/maxproy/NGO-donor-program) | A web based application that keeps and records data of donations made. | PHP |
 
 ---
-
 
 ### 📊 GitHub Analytics
 
