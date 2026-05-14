@@ -161,15 +161,21 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxproy&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxproy&theme=radical&hide_border=true" alt="GitHub streak" width="40%"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxproy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-<br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=maxproy&show_icons=true&count_private=true&theme=radical&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=maxproy&show_icons=true&count_private=true&theme=radical">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=macproy&show_icons=true&count_private=true&theme=radical" height="150px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=maxproy&layout=compact&langs_count=8&theme=radical&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=maxproy&layout=compact&langs_count=8&theme=radical">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=maxproy&layout=compact&langs_count=8&theme=radical" height="150px">
+  </picture>
+
+</div>
 
 ---
 ### 📚 Contributions
