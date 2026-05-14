@@ -1,6 +1,6 @@
 <!-- Profile README for Isaac Maina -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94c2lvbjF2cHA2amRobXZnc2VqYXg1cmQ0Njd2M2Q2bmIwcHNneiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="200" height="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG94c2lvbjF2cHA2amRobXZnc2VqYXg1cmQ0Njd2M2Q2bmIwcHNneiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="200" height="200"/>
 </div>
 <h1 align="center">Hi there, I'm Isaac Maina 👋</h1>
 <h3 align="center">Full-Stack Developer | Python & JavaScript Enthusiast</h3>
@@ -33,114 +33,114 @@
 ### 💻 Tech Stack:
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="30" height="30" />
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="60">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="30" height="30" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" height="30" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="30" height="30" />
       <br>C++
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="c" />
+    <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=c" width="30" height="30" alt="c" />
           <br>C
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="flask" />
+    <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=flask" width="30" height="30" alt="flask" />
       <br>Flask
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="postgres" />
+    <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=postgres" width="30" height="30" alt="postgres" />
       <br>Postgress
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="30" height="30" />
       <br>C#
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+  <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="30" height="30" />
       <br>Django
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+    <td align="center" width="60"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+    <td align="center"  width="60">
+        <img src="https://skillicons.dev/icons?i=laravel" width="30" height="30" alt="Laravel" />
       <br>Laravel
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+    <td align="center"  width="60">
+        <img src="https://skillicons.dev/icons?i=html" width="30" height="30" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
+    <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=css" width="30" height="30" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
+    <td align="center"  width="60">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="postman" />
+    <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" alt="postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="R" />
+    <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=r" width="30" height="30" alt="R" />
       <br>R
     </td>
   </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="sqlite" />
+  <tr>
+       <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="30" height="30" alt="sqlite" />
       <br>SQLite
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+         <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" alt="Nodejs" />
       <br>Nodejs
       </td>
       </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+    <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=php" width="30" height="30" alt="PHP" />
       <br>PHP
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
+             <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress" />
+               <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="30" height="30" alt="WordPress" />
       <br>WordPress
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="vercel" />
+               <td align="center" width="60">
+        <img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="vercel" />
       <br>Vercel
-              </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" alt="docker" />
+               </td>
+    <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="30" height="30" alt="docker" />
       <br>Docker
     </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" alt="JAVA" />
+      <td align="center" width="60">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="30" height="30" alt="JAVA" />
       <br>JAVA
       </td>
 </table>
